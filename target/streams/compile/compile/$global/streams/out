@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/gleam/Code/scala/dlc-workshop-scala/src/main/scala/GradingStudents.scala:71:50: missing parameter type for expanded function ((x$7: <error>) => x$7._1.$eq$eq("simon"))[0m
+[0m[[0m[31merror[0m] [0m[0m  println(sampleSeq.sortBy(_._2).reverse.indexOf(_._1=="simon"))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
